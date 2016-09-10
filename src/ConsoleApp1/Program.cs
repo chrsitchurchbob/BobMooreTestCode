@@ -9,6 +9,7 @@ namespace ConsoleApp1
 {
     public class Program
     {
+
         private static AggregateWeatherLoader WeatherLoader = new AggregateWeatherLoader();
         public static void Main(string[] args)
         {
